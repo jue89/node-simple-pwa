@@ -1,0 +1,19 @@
+{
+  "name": "simple-pwa",
+  "version": "0.0.0",
+  "description": "Helper to serve PWA using express.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jue89/node-simple-pwa.git"
+  },
+  "keywords": [
+    "pwa",
+    "importmap"
+  ],
+  "author": "Juergen Fitschen <me@jue.yt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jue89/node-simple-pwa/issues"
+  },
+  "homepage": "https://github.com/jue89/node-simple-pwa#readme"
+}
